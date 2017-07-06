@@ -61,7 +61,6 @@
 {
   [self setup];
 
-  self.navigationController.navigationBar.tintColor = [GSTATE scoreBoardColor];
   // Do any additional setup after loading the view.
 }
 
